@@ -38,6 +38,6 @@ setuptools.setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     keywords="python api ecotrend ista",
-    install_requires=["aiohttp==3.8.1"],
+    install_requires=["aiohttp==3.8.4"],
     python_requires=">=3.6",
 )
